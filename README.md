@@ -15,12 +15,19 @@ I'm particularly interested in building applications using **LLMs, local AI mode
 
 ### Technologies & Interests
 -Languages: Python, SQL, JavaScript
+
 -AI & ML: Machine Learning, Deep Learning, Generative AI, NLP, Computer Vision
+
 -LLM & AI Frameworks: LangChain, LangGraph, Ollama, Hugging Face
+
 -ML Libraries: PyTorch, TensorFlow, Scikit-learn
+
 -Backend: FastAPI, Flask
+
 -Databases: MySQL, PostgreSQL, SQLite, Qdrant
+
 -Tools: Git, GitHub, Docker, VS Code
+
 -Interests: RAG, AI Agents, Local LLMs, Intelligent Automation
 
 
@@ -40,5 +47,5 @@ I'm particularly interested in building applications using **LLMs, local AI mode
 
 
 - 🔭 I’m currently working as an ai egineer
-- 🌱 I’m currently learning a lot about RAG
+- 🌱 I’m currently learning a loooooot about RAG
 
