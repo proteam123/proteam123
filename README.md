@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<# Hey there! 👋
 
 I'm **Mishal Muhammed**, an AI Engineer passionate about building intelligent applications and solving real-world problems through technology.
 
