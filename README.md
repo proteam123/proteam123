@@ -146,9 +146,6 @@ Optical character recognition that runs locally on your own machine.
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=proteam123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub stats" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=proteam123&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top languages" />
 
-<img src="https://streak-stats.demolab.com?user=proteam123&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=proteam123&theme=tokyo-night&hide_border=true&bg_color=00000000" alt="Contribution graph" />
 
 </div>
 
