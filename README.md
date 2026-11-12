@@ -134,9 +134,6 @@ Optical character recognition that runs locally on your own machine.
 
 <div align="center">
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=proteam123&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub trophies" />
-</a>
 
 </div>
 
