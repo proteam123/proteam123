@@ -137,20 +137,6 @@ Optical character recognition that runs locally on your own machine.
 
 </div>
 
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=proteam123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=proteam123&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top languages" />
-
-
-</div>
-
-<br/>
-
 ## 🗺️ What I'm Exploring Next
 
 - [x] Retrieval-Augmented Generation (RAG)
